@@ -1,2 +1,4 @@
-![Screen Shot](/Screen Shot 2017-10-08 at 12.24.04 PM.png)
-Format: ![Alt Text](url)
+
+
+
+Format: ![Out of Stock](https://github.com/philtesar/Bamazon/blob/master/OutOfStock.png)
